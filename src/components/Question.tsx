@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { Question as QuestionType } from '../types';
-import { FaClock, FaCheckCircle, FaUndo, FaKeyboard, FaArrowRight } from 'react-icons/fa';
+import { FaCheckCircle, FaUndo, FaKeyboard, FaArrowRight } from 'react-icons/fa';
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
 

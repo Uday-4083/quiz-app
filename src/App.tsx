@@ -42,7 +42,9 @@ function App() {
 
   const handleTimeUp = () => {
     if (currentQuestionIndex < selectedQuestions.length - 1) {
-      handleNextQuestion();
+      setCurrentQuestionIndex(prev => prev + 1);
+      setTimeRemaining(30);
+      setSelectedAnswers(new Array(selectedQuestions[currentQuestionIndex + 1].question.split('_____________').length - 1).fill(''));
     } else {
       handleQuizComplete();
     }
@@ -54,22 +56,6 @@ function App() {
     setSelectedQuestions(shuffled.slice(0, numQuestions));
     setQuizStarted(true);
     setTimeRemaining(30);
-  };
-
-  const handleSelectAnswer = (answer: string, index: number) => {
-    setSelectedAnswers(prev => {
-      const newAnswers = [...prev];
-      newAnswers[index] = answer;
-      return newAnswers;
-    });
-  };
-
-  const handleUnselectAnswer = (index: number) => {
-    setSelectedAnswers(prev => {
-      const newAnswers = [...prev];
-      newAnswers[index] = '';
-      return newAnswers;
-    });
   };
 
   const handleAnswerSubmit = useCallback((answers: string[]) => {
@@ -89,6 +75,7 @@ function App() {
 
     if (currentQuestionIndex < selectedQuestions.length - 1) {
       setCurrentQuestionIndex(prev => prev + 1);
+      setTimeRemaining(30);
     } else {
       handleQuizComplete();
     }
@@ -120,13 +107,6 @@ function App() {
     setTimeRemaining(30);
     setUserAnswers([]);
     setSelectedQuestions([]);
-  };
-
-  const areAllBlanksFilledForCurrentQuestion = () => {
-    if (!selectedQuestions[currentQuestionIndex]) return false;
-    const totalBlanks = selectedQuestions[currentQuestionIndex].question.split('_____________').length - 1;
-    return selectedAnswers.length === totalBlanks &&
-      selectedAnswers.every(answer => answer !== '');
   };
 
   if (!quizStarted) {
