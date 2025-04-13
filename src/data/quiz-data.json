@@ -1,0 +1,817 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "testId": "oihq2eo9h1029921-210-20112",
+    "questions": [
+      {
+        "questionId": "b28af948-db8b-465e-92e6-3d42534c4533",
+        "question": "The company's _____________ approach to product development _____________ customer feedback at every stage, _____________ user satisfaction and _____________ a loyal consumer base.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Incorporated", "User-centric", "Enhancing", "Cultivating"],
+        "correctAnswer": ["User-centric", "Incorporated", "Enhancing", "Cultivating"]
+      },
+      {
+        "questionId": "6e6534ea-260a-4c26-96fd-f830b27601fb",
+        "question": "The _____________ musical performance _____________ elements from various genres, _____________ the audience with its unique sound and _____________ critical acclaim from industry experts.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Blended", "Eclectic", "Garnering", "Captivating"],
+        "correctAnswer": ["Eclectic", "Blended", "Captivating", "Garnering"]
+      },
+      {
+        "questionId": "7186e3da-0384-460a-af19-5a3984758e78",
+        "question": "The scientist's _____________ research on quantum computing _____________ new possibilities for data processing, _____________ traditional limitations and _____________ the way for groundbreaking technological advancements.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Pioneering", "Paving", "Overcoming", "Opened up"],
+        "correctAnswer": ["Pioneering", "Opened up", "Overcoming", "Paving"]
+      },
+      {
+        "questionId": "10cbe3c2-13bb-4973-a794-18bf309b0791",
+        "question": "The _____________ implementation of machine learning algorithms in medical diagnostics _____________ early detection of diseases, _____________ treatment outcomes and _____________ the workload of healthcare professionals.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Improving", "Reducing", "Enabled", "Revolutionary"],
+        "correctAnswer": ["Revolutionary", "Enabled", "Improving", "Reducing"]
+      },
+      {
+        "questionId": "71ffe41e-8732-48e6-87f2-f84ea07eb060",
+        "question": "The _____________ security breach at the tech giant _____________ millions of users' data, _____________ concerns about online privacy and _____________ calls for stricter regulations.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Raising", "Massive", "Prompting", "Compromised"],
+        "correctAnswer": ["Massive", "Compromised", "Raising", "Prompting"]
+      },
+      {
+        "questionId": "48b9b4bd-5c2c-4c25-92c0-ce453b14e8d7",
+        "question": "The _____________ educational reform _____________ a more inclusive curriculum, _____________ equal opportunities for all students and _____________ the overall quality of public schooling.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Enhancing", "Implemented", "Promoting"],
+        "correctAnswer": ["Comprehensive", "Implemented", "Promoting", "Enhancing"]
+      },
+      {
+        "questionId": "ed5e6e2d-8408-406e-be32-777ac26460e2",
+        "question": "The company's _____________ commitment to sustainability _____________ eco-friendly practices across all departments, _____________ its carbon footprint and _____________ a model for corporate responsibility.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Implemented", "Setting", "Unwavering", "Reducing"],
+        "correctAnswer": ["Unwavering", "Implemented", "Reducing", "Setting"]
+      },
+      {
+        "questionId": "936eccaa-2f3b-4322-a3d3-ceabf2219dc5",
+        "question": "The _____________ implementation of artificial intelligence in healthcare _____________ patient outcomes, _____________ the workload of medical professionals and _____________ new avenues for personalized treatment.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Opening", "Improved", "Gradual", "Reducing"],
+        "correctAnswer": ["Gradual", "Improved", "Reducing", "Opening"]
+      },
+      {
+        "questionId": "d78effdf-88ab-4667-8115-3bfb2baa0a24",
+        "question": "The _____________ festival _____________ artists from diverse backgrounds, _____________ cultural exchange and _____________ a platform for emerging talents to showcase their work.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Providing", "Brought together", "Promoting", "International"],
+        "correctAnswer": ["International", "Brought together", "Promoting", "Providing"]
+      },
+      {
+        "questionId": "2d08ec76-a253-4f34-bc45-e12ef21b78fb",
+        "question": "The _____________ implementation of smart city technologies _____________ urban efficiency and sustainability, _____________ quality of life for residents and _____________ a model for future urban development.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Enhancing", "Improved", "Providing", "Widespread"],
+        "correctAnswer": ["Widespread", "Improved", "Enhancing", "Providing"]
+      },
+      {
+        "questionId": "a1b2c3d4-e5f6-4a5b-9c8d-7e6f5a4b3c2d",
+        "question": "The _____________ research findings _____________ conventional wisdom about climate change, _____________ new solutions and _____________ global environmental policies.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Challenged", "Proposing", "Groundbreaking", "Influencing"],
+        "correctAnswer": ["Groundbreaking", "Challenged", "Proposing", "Influencing"]
+      },
+      {
+        "questionId": "b2c3d4e5-f6a7-4b5c-ad8e-9f8g7h6i5j4",
+        "question": "The _____________ startup's innovation _____________ industry standards, _____________ market dynamics and _____________ a new era of technological advancement.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Heralded", "Revolutionized", "Disruptive", "Transformed"],
+        "correctAnswer": ["Disruptive", "Revolutionized", "Transformed", "Heralded"]
+      },
+      {
+        "questionId": "c3d4e5f6-g7h8-4c5d-be9f-0a1b2c3d4e5",
+        "question": "The _____________ architectural design _____________ traditional elements with modern aesthetics, _____________ environmental sustainability and _____________ a new standard in urban planning.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Setting", "Blended", "Innovative", "Promoting"],
+        "correctAnswer": ["Innovative", "Blended", "Promoting", "Setting"]
+      },
+      {
+        "questionId": "d4e5f6g7-h8i9-4d5e-cf0g-1b2c3d4e5f6",
+        "question": "The _____________ healthcare initiative _____________ advanced technologies in patient care, _____________ treatment effectiveness and _____________ medical outcomes significantly.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Improving", "Progressive", "Integrated", "Enhancing"],
+        "correctAnswer": ["Progressive", "Integrated", "Enhancing", "Improving"]
+      },
+      {
+        "questionId": "e5f6g7h8-i9j0-4e5f-dg1h-2c3d4e5f6g7",
+        "question": "The _____________ environmental campaign _____________ public awareness about conservation, _____________ sustainable practices and _____________ positive change in community behavior.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Promoting", "Successful", "Inspiring", "Raised"],
+        "correctAnswer": ["Successful", "Raised", "Promoting", "Inspiring"]
+      },
+      {
+        "questionId": "f6g7h8i9-j0k1-4f5g-eh2i-3d4e5f6g7h8",
+        "question": "The _____________ digital platform _____________ user experience significantly, _____________ customer engagement and _____________ new standards in online service delivery.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Enhanced", "Establishing", "Revolutionary", "Boosting"],
+        "correctAnswer": ["Revolutionary", "Enhanced", "Boosting", "Establishing"]
+      },
+      {
+        "questionId": "g7h8i9j0-k1l2-4g5h-fi3j-4e5f6g7h8i9",
+        "question": "The _____________ educational program _____________ innovative teaching methods, _____________ student learning outcomes and _____________ academic excellence.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Fostering", "Implemented", "Comprehensive", "Improving"],
+        "correctAnswer": ["Comprehensive", "Implemented", "Improving", "Fostering"]
+      },
+      {
+        "questionId": "h8i9j0k1-l2m3-4h5i-gj4k-5f6g7h8i9j0",
+        "question": "The _____________ research methodology _____________ multiple data sources, _____________ analytical accuracy and _____________ groundbreaking insights.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Generating", "Integrated", "Innovative", "Enhancing"],
+        "correctAnswer": ["Innovative", "Integrated", "Enhancing", "Generating"]
+      },
+      {
+        "questionId": "i9j0k1l2-m3n4-4i5j-hk5l-6g7h8i9j0k1",
+        "question": "The _____________ marketing strategy _____________ social media platforms effectively, _____________ brand visibility and _____________ customer loyalty significantly.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Increasing", "Dynamic", "Utilized", "Strengthening"],
+        "correctAnswer": ["Dynamic", "Utilized", "Increasing", "Strengthening"]
+      },
+      {
+        "questionId": "j0k1l2m3-n4o5-4j5k-il6m-7h8i9j0k1l2",
+        "question": "The _____________ renewable energy project _____________ sustainable power generation, _____________ environmental impact and _____________ community development.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Supporting", "Enabled", "Innovative", "Reducing"],
+        "correctAnswer": ["Innovative", "Enabled", "Reducing", "Supporting"]
+      },
+      {
+        "questionId": "k1l2m3n4-o5p6-4k5l-jm7n-8i9j0k1l2m3",
+        "question": "The _____________ software update _____________ system performance, _____________ user interface and _____________ new security features.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Optimized", "Comprehensive", "Streamlined", "Introduced"],
+        "correctAnswer": ["Comprehensive", "Optimized", "Streamlined", "Introduced"]
+      },
+      {
+        "questionId": "l2m3n4o5-p6q7-4l5m-kn8o-9j0k1l2m3n4",
+        "question": "The _____________ cultural initiative _____________ local artists, _____________ community participation and _____________ creative expression.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Fostering", "Empowered", "Innovative", "Encouraged"],
+        "correctAnswer": ["Innovative", "Empowered", "Encouraged", "Fostering"]
+      },
+      {
+        "questionId": "m3n4o5p6-q7r8-4m5n-lo9p-0k1l2m3n4o5",
+        "question": "The _____________ transportation system _____________ urban mobility, _____________ traffic congestion and _____________ environmental sustainability.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Promoted", "Enhanced", "Integrated", "Reduced"],
+        "correctAnswer": ["Integrated", "Enhanced", "Reduced", "Promoted"]
+      },
+      {
+        "questionId": "n4o5p6q7-r8s9-4n5o-mp0q-1l2m3n4o5p6",
+        "question": "The _____________ space exploration mission _____________ new technologies, _____________ scientific understanding and _____________ future interplanetary travel.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Revolutionary", "Advanced", "Pioneering", "Enabling"],
+        "correctAnswer": ["Pioneering", "Advanced", "Enabling", "Revolutionary"]
+      },
+      {
+        "questionId": "uuid-24",
+        "question": "The _____________ artificial intelligence system _____________ complex problems, _____________ decision-making processes and _____________ operational efficiency.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Automated", "Solved", "Advanced", "Streamlined"],
+        "correctAnswer": ["Advanced", "Solved", "Streamlined", "Automated"]
+      },
+      {
+        "questionId": "uuid-25",
+        "question": "The _____________ cybersecurity protocol _____________ network vulnerabilities, _____________ data protection and _____________ potential threats effectively.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Enhanced", "Identified", "Advanced", "Mitigated"],
+        "correctAnswer": ["Advanced", "Identified", "Enhanced", "Mitigated"]
+      },
+      {
+        "questionId": "uuid-26",
+        "question": "The _____________ renewable energy initiative _____________ solar technology, _____________ carbon emissions and _____________ sustainable development goals.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Leveraged", "Reducing", "Advancing"],
+        "correctAnswer": ["Innovative", "Leveraged", "Reducing", "Advancing"]
+      },
+      {
+        "questionId": "uuid-27",
+        "question": "The _____________ machine learning algorithm _____________ complex patterns, _____________ predictive accuracy and _____________ business insights.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Sophisticated", "Identified", "Improving", "Generated"],
+        "correctAnswer": ["Sophisticated", "Identified", "Improving", "Generated"]
+      },
+      {
+        "questionId": "uuid-28",
+        "question": "The _____________ urban planning project _____________ sustainable design, _____________ community needs and _____________ environmental impact.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Incorporated", "Addressing", "Minimizing"],
+        "correctAnswer": ["Comprehensive", "Incorporated", "Addressing", "Minimizing"]
+      },
+      {
+        "questionId": "uuid-29",
+        "question": "The _____________ healthcare platform _____________ patient data, _____________ treatment efficiency and _____________ medical outcomes.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Digital", "Centralized", "Improving", "Optimizing"],
+        "correctAnswer": ["Digital", "Centralized", "Improving", "Optimizing"]
+      },
+      {
+        "questionId": "uuid-30",
+        "question": "The _____________ research methodology _____________ diverse data sources, _____________ analytical precision and _____________ meaningful conclusions.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Integrated", "Combined", "Enhancing", "Yielding"],
+        "correctAnswer": ["Integrated", "Combined", "Enhancing", "Yielding"]
+      },
+      {
+        "questionId": "uuid-98",
+        "question": "The _____________ blockchain solution _____________ transaction security, _____________ operational transparency and _____________ user trust.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Promoting", "Building"],
+        "correctAnswer": ["Advanced", "Enhanced", "Promoting", "Building"]
+      },
+      {
+        "questionId": "uuid-99",
+        "question": "The _____________ educational platform _____________ interactive learning, _____________ student engagement and _____________ academic performance.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Dynamic", "Facilitated", "Boosting", "Improving"],
+        "correctAnswer": ["Dynamic", "Facilitated", "Boosting", "Improving"]
+      },
+      {
+        "questionId": "uuid-100",
+        "question": "The _____________ sustainability initiative _____________ green practices, _____________ resource efficiency and _____________ environmental stewardship.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Corporate", "Implemented", "Maximizing", "Promoting"],
+        "correctAnswer": ["Corporate", "Implemented", "Maximizing", "Promoting"]
+      },
+      {
+        "questionId": "uuid-31",
+        "question": "The _____________ virtual reality system _____________ immersive experiences, _____________ user engagement and _____________ new possibilities in digital interaction.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Created", "Maximizing", "Opening"],
+        "correctAnswer": ["Advanced", "Created", "Maximizing", "Opening"]
+      },
+      {
+        "questionId": "uuid-32",
+        "question": "The _____________ financial technology solution _____________ payment processing, _____________ transaction security and _____________ user convenience.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Streamlined", "Enhancing", "Improving"],
+        "correctAnswer": ["Innovative", "Streamlined", "Enhancing", "Improving"]
+      },
+      {
+        "questionId": "uuid-33",
+        "question": "The _____________ agricultural initiative _____________ sustainable farming practices, _____________ crop yields and _____________ food security.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Promoted", "Increasing", "Strengthening"],
+        "correctAnswer": ["Comprehensive", "Promoted", "Increasing", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-97",
+        "question": "The _____________ robotics system _____________ manufacturing processes, _____________ production efficiency and _____________ operational costs.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Automated", "Optimized", "Improving", "Reducing"],
+        "correctAnswer": ["Automated", "Optimized", "Improving", "Reducing"]
+      },
+      {
+        "questionId": "uuid-34",
+        "question": "The _____________ data analytics platform _____________ business intelligence, _____________ decision-making processes and _____________ organizational performance.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Streamlining", "Optimizing"],
+        "correctAnswer": ["Advanced", "Enhanced", "Streamlining", "Optimizing"]
+      },
+      {
+        "questionId": "uuid-35",
+        "question": "The _____________ smart city initiative _____________ urban infrastructure, _____________ public services and _____________ quality of life.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Modernized", "Improving", "Enhancing"],
+        "correctAnswer": ["Comprehensive", "Modernized", "Improving", "Enhancing"]
+      },
+      {
+        "questionId": "uuid-36",
+        "question": "The _____________ biotechnology research _____________ medical treatments, _____________ patient outcomes and _____________ healthcare innovation.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Groundbreaking", "Advanced", "Improving", "Driving"],
+        "correctAnswer": ["Groundbreaking", "Advanced", "Improving", "Driving"]
+      },
+      {
+        "questionId": "uuid-37",
+        "question": "The _____________ quantum computing project _____________ processing capabilities, _____________ computational limits and _____________ technological boundaries.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Revolutionary", "Enhanced", "Transcending", "Pushing"],
+        "correctAnswer": ["Revolutionary", "Enhanced", "Transcending", "Pushing"]
+      },
+      {
+        "questionId": "uuid-38",
+        "question": "The _____________ digital transformation initiative _____________ business processes, _____________ operational efficiency and _____________ customer satisfaction.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Modernized", "Increasing", "Enhancing"],
+        "correctAnswer": ["Strategic", "Modernized", "Increasing", "Enhancing"]
+      },
+      {
+        "questionId": "uuid-39",
+        "question": "The _____________ space exploration mission _____________ astronomical discoveries, _____________ scientific understanding and _____________ human knowledge.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Pioneering", "Generated", "Advancing", "Expanding"],
+        "correctAnswer": ["Pioneering", "Generated", "Advancing", "Expanding"]
+      },
+      {
+        "questionId": "uuid-40",
+        "question": "The _____________ environmental conservation project _____________ ecosystem restoration, _____________ biodiversity and _____________ sustainable practices.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Facilitated", "Protecting", "Promoting"],
+        "correctAnswer": ["Comprehensive", "Facilitated", "Protecting", "Promoting"]
+      },
+      {
+        "questionId": "uuid-41",
+        "question": "The _____________ artificial intelligence system _____________ natural language processing, _____________ communication efficiency and _____________ user experience.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Improving", "Optimizing"],
+        "correctAnswer": ["Advanced", "Enhanced", "Improving", "Optimizing"]
+      },
+      {
+        "questionId": "uuid-42",
+        "question": "The _____________ renewable energy project _____________ clean power generation, _____________ carbon emissions and _____________ environmental sustainability.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Maximized", "Reducing", "Promoting"],
+        "correctAnswer": ["Innovative", "Maximized", "Reducing", "Promoting"]
+      },
+      {
+        "questionId": "uuid-43",
+        "question": "The _____________ cybersecurity framework _____________ digital assets, _____________ data privacy and _____________ network security.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Robust", "Protected", "Ensuring", "Strengthening"],
+        "correctAnswer": ["Robust", "Protected", "Ensuring", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-44",
+        "question": "The _____________ machine learning model _____________ data patterns, _____________ prediction accuracy and _____________ business outcomes.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Sophisticated", "Identified", "Improving", "Optimizing"],
+        "correctAnswer": ["Sophisticated", "Identified", "Improving", "Optimizing"]
+      },
+      {
+        "questionId": "uuid-45",
+        "question": "The _____________ healthcare initiative _____________ patient care, _____________ medical outcomes and _____________ treatment effectiveness.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Transformed", "Improving", "Enhancing"],
+        "correctAnswer": ["Innovative", "Transformed", "Improving", "Enhancing"]
+      },
+      {
+        "questionId": "uuid-46",
+        "question": "The _____________ educational technology platform _____________ learning experiences, _____________ student engagement and _____________ academic achievement.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Interactive", "Enhanced", "Increasing", "Promoting"],
+        "correctAnswer": ["Interactive", "Enhanced", "Increasing", "Promoting"]
+      },
+      {
+        "questionId": "uuid-47",
+        "question": "The _____________ blockchain technology _____________ financial transactions, _____________ data security and _____________ market efficiency.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Revolutionary", "Streamlined", "Enhancing", "Improving"],
+        "correctAnswer": ["Revolutionary", "Streamlined", "Enhancing", "Improving"]
+      },
+      {
+        "questionId": "uuid-48",
+        "question": "The _____________ urban development project _____________ city infrastructure, _____________ public services and _____________ community wellbeing.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Modernized", "Improving", "Enhancing"],
+        "correctAnswer": ["Comprehensive", "Modernized", "Improving", "Enhancing"]
+      },
+      {
+        "questionId": "uuid-49",
+        "question": "The _____________ research initiative _____________ scientific understanding, _____________ innovation potential and _____________ technological advancement.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Groundbreaking", "Expanded", "Unlocking", "Driving"],
+        "correctAnswer": ["Groundbreaking", "Expanded", "Unlocking", "Driving"]
+      },
+      {
+        "questionId": "uuid-50",
+        "question": "The _____________ digital platform _____________ user experience, _____________ customer engagement and _____________ business growth.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Enhanced", "Increasing", "Facilitating"],
+        "correctAnswer": ["Innovative", "Enhanced", "Increasing", "Facilitating"]
+      },
+      {
+        "questionId": "uuid-51",
+        "question": "The _____________ sustainability program _____________ environmental impact, _____________ resource efficiency and _____________ corporate responsibility.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Reduced", "Improving", "Demonstrating"],
+        "correctAnswer": ["Comprehensive", "Reduced", "Improving", "Demonstrating"]
+      },
+      {
+        "questionId": "uuid-52",
+        "question": "The _____________ artificial intelligence solution _____________ business processes, _____________ operational efficiency and _____________ competitive advantage.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Automated", "Enhancing", "Creating"],
+        "correctAnswer": ["Advanced", "Automated", "Enhancing", "Creating"]
+      },
+      {
+        "questionId": "uuid-53",
+        "question": "The _____________ healthcare technology _____________ patient care delivery, _____________ treatment outcomes and _____________ medical innovation.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Revolutionary", "Transformed", "Improving", "Driving"],
+        "correctAnswer": ["Revolutionary", "Transformed", "Improving", "Driving"]
+      },
+      {
+        "questionId": "uuid-54",
+        "question": "The _____________ renewable technology _____________ clean energy production, _____________ environmental impact and _____________ sustainable development.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Optimized", "Reducing", "Promoting"],
+        "correctAnswer": ["Innovative", "Optimized", "Reducing", "Promoting"]
+      },
+      {
+        "questionId": "uuid-55",
+        "question": "The _____________ educational initiative _____________ learning methods, _____________ student outcomes and _____________ academic excellence.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Progressive", "Modernized", "Improving", "Fostering"],
+        "correctAnswer": ["Progressive", "Modernized", "Improving", "Fostering"]
+      },
+      {
+        "questionId": "uuid-56",
+        "question": "The _____________ cybersecurity solution _____________ network protection, _____________ data privacy and _____________ digital security.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Ensuring", "Strengthening"],
+        "correctAnswer": ["Advanced", "Enhanced", "Ensuring", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-57",
+        "question": "The _____________ urban planning initiative _____________ city development, _____________ living standards and _____________ community engagement.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Guided", "Improving", "Promoting"],
+        "correctAnswer": ["Strategic", "Guided", "Improving", "Promoting"]
+      },
+      {
+        "questionId": "uuid-58",
+        "question": "The _____________ research methodology _____________ data collection, _____________ analytical accuracy and _____________ scientific understanding.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Streamlined", "Enhancing", "Advancing"],
+        "correctAnswer": ["Innovative", "Streamlined", "Enhancing", "Advancing"]
+      },
+      {
+        "questionId": "uuid-59",
+        "question": "The _____________ digital transformation _____________ business operations, _____________ customer experience and _____________ market competitiveness.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Revolutionized", "Enhancing", "Strengthening"],
+        "correctAnswer": ["Strategic", "Revolutionized", "Enhancing", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-60",
+        "question": "The _____________ environmental initiative _____________ sustainable practices, _____________ carbon footprint and _____________ ecological balance.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Promoted", "Reducing", "Maintaining"],
+        "correctAnswer": ["Comprehensive", "Promoted", "Reducing", "Maintaining"]
+      },
+      {
+        "questionId": "uuid-61",
+        "question": "The _____________ machine learning system _____________ data processing, _____________ analytical capabilities and _____________ business insights.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Automated", "Enhancing", "Generating"],
+        "correctAnswer": ["Advanced", "Automated", "Enhancing", "Generating"]
+      },
+      {
+        "questionId": "uuid-62",
+        "question": "The _____________ healthcare platform _____________ medical services, _____________ patient care and _____________ treatment outcomes.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Streamlined", "Improving", "Optimizing"],
+        "correctAnswer": ["Innovative", "Streamlined", "Improving", "Optimizing"]
+      },
+      {
+        "questionId": "uuid-63",
+        "question": "The _____________ blockchain platform _____________ financial transactions, _____________ market efficiency and _____________ user trust.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Facilitated", "Improving", "Building"],
+        "correctAnswer": ["Advanced", "Facilitated", "Improving", "Building"]
+      },
+      {
+        "questionId": "uuid-64",
+        "question": "The _____________ research project _____________ scientific knowledge, _____________ technological innovation and _____________ industry standards.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Groundbreaking", "Advanced", "Driving", "Setting"],
+        "correctAnswer": ["Groundbreaking", "Advanced", "Driving", "Setting"]
+      },
+      {
+        "questionId": "uuid-65",
+        "question": "The _____________ smart city solution _____________ urban services, _____________ resource efficiency and _____________ citizen satisfaction.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Optimized", "Improving", "Enhancing"],
+        "correctAnswer": ["Innovative", "Optimized", "Improving", "Enhancing"]
+      },
+      {
+        "questionId": "uuid-66",
+        "question": "The _____________ educational program _____________ learning outcomes, _____________ student engagement and _____________ academic success.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Enhanced", "Promoting", "Facilitating"],
+        "correctAnswer": ["Comprehensive", "Enhanced", "Promoting", "Facilitating"]
+      },
+      {
+        "questionId": "uuid-67",
+        "question": "The _____________ cybersecurity initiative _____________ network defenses, _____________ data protection and _____________ system integrity.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Strengthened", "Ensuring", "Maintaining"],
+        "correctAnswer": ["Strategic", "Strengthened", "Ensuring", "Maintaining"]
+      },
+      {
+        "questionId": "uuid-68",
+        "question": "The _____________ artificial intelligence platform _____________ business analytics, _____________ decision-making and _____________ operational efficiency.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Revolutionized", "Improving", "Maximizing"],
+        "correctAnswer": ["Advanced", "Revolutionized", "Improving", "Maximizing"]
+      },
+      {
+        "questionId": "uuid-69",
+        "question": "The _____________ sustainability project _____________ green initiatives, _____________ environmental awareness and _____________ corporate responsibility.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Implemented", "Promoting", "Demonstrating"],
+        "correctAnswer": ["Innovative", "Implemented", "Promoting", "Demonstrating"]
+      },
+      {
+        "questionId": "uuid-70",
+        "question": "The _____________ digital platform _____________ user interactions, _____________ customer satisfaction and _____________ business growth.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Improving", "Accelerating"],
+        "correctAnswer": ["Advanced", "Enhanced", "Improving", "Accelerating"]
+      },
+      {
+        "questionId": "uuid-71",
+        "question": "The _____________ healthcare solution _____________ patient monitoring, _____________ treatment effectiveness and _____________ medical care.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Automated", "Enhancing", "Revolutionizing"],
+        "correctAnswer": ["Innovative", "Automated", "Enhancing", "Revolutionizing"]
+      },
+      {
+        "questionId": "uuid-72",
+        "question": "The _____________ research methodology _____________ data analysis, _____________ scientific accuracy and _____________ knowledge discovery.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Streamlined", "Ensuring", "Facilitating"],
+        "correctAnswer": ["Advanced", "Streamlined", "Ensuring", "Facilitating"]
+      },
+      {
+        "questionId": "uuid-73",
+        "question": "The _____________ urban initiative _____________ city planning, _____________ living conditions and _____________ community development.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Transformed", "Improving", "Promoting"],
+        "correctAnswer": ["Comprehensive", "Transformed", "Improving", "Promoting"]
+      },
+      {
+        "questionId": "uuid-74",
+        "question": "The _____________ technology solution _____________ system performance, _____________ user experience and _____________ business efficiency.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Enhanced", "Improving", "Maximizing"],
+        "correctAnswer": ["Innovative", "Enhanced", "Improving", "Maximizing"]
+      },
+      {
+        "questionId": "uuid-75",
+        "question": "The _____________ environmental program _____________ sustainable practices, _____________ resource conservation and _____________ ecological protection.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Implemented", "Promoting", "Ensuring"],
+        "correctAnswer": ["Comprehensive", "Implemented", "Promoting", "Ensuring"]
+      },
+      {
+        "questionId": "uuid-76",
+        "question": "The _____________ artificial intelligence research _____________ machine learning, _____________ computational capabilities and _____________ technological boundaries.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Expanding", "Pushing"],
+        "correctAnswer": ["Advanced", "Enhanced", "Expanding", "Pushing"]
+      },
+      {
+        "questionId": "uuid-77",
+        "question": "The _____________ healthcare initiative _____________ medical procedures, _____________ patient outcomes and _____________ healthcare delivery.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Revolutionary", "Streamlined", "Improving", "Transforming"],
+        "correctAnswer": ["Revolutionary", "Streamlined", "Improving", "Transforming"]
+      },
+      {
+        "questionId": "uuid-78",
+        "question": "The _____________ digital transformation _____________ business processes, _____________ operational efficiency and _____________ market position.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Modernized", "Enhancing", "Strengthening"],
+        "correctAnswer": ["Strategic", "Modernized", "Enhancing", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-79",
+        "question": "The _____________ research project _____________ scientific understanding, _____________ innovation potential and _____________ industry knowledge.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Groundbreaking", "Advanced", "Unlocking", "Expanding"],
+        "correctAnswer": ["Groundbreaking", "Advanced", "Unlocking", "Expanding"]
+      },
+      {
+        "questionId": "uuid-80",
+        "question": "The _____________ sustainability initiative _____________ environmental practices, _____________ resource efficiency and _____________ corporate sustainability.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Implemented", "Improving", "Advancing"],
+        "correctAnswer": ["Innovative", "Implemented", "Improving", "Advancing"]
+      },
+      {
+        "questionId": "uuid-81",
+        "question": "The _____________ technology platform _____________ user engagement, _____________ digital experience and _____________ customer satisfaction.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Enhanced", "Optimizing", "Maximizing"],
+        "correctAnswer": ["Advanced", "Enhanced", "Optimizing", "Maximizing"]
+      },
+      {
+        "questionId": "uuid-82",
+        "question": "The _____________ healthcare solution _____________ patient care, _____________ medical outcomes and _____________ treatment efficiency.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Transformed", "Improving", "Enhancing"],
+        "correctAnswer": ["Innovative", "Transformed", "Improving", "Enhancing"]
+      },
+      {
+        "questionId": "uuid-83",
+        "question": "The _____________ research methodology _____________ data collection, _____________ analytical precision and _____________ scientific insights.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Streamlined", "Ensuring", "Generating"],
+        "correctAnswer": ["Advanced", "Streamlined", "Ensuring", "Generating"]
+      },
+      {
+        "questionId": "uuid-84",
+        "question": "The _____________ urban development _____________ city infrastructure, _____________ living standards and _____________ community wellbeing.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Modernized", "Improving", "Promoting"],
+        "correctAnswer": ["Comprehensive", "Modernized", "Improving", "Promoting"]
+      },
+      {
+        "questionId": "uuid-85",
+        "question": "The _____________ digital initiative _____________ business operations, _____________ customer service and _____________ market reach.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Transformed", "Enhancing", "Expanding"],
+        "correctAnswer": ["Strategic", "Transformed", "Enhancing", "Expanding"]
+      },
+      {
+        "questionId": "uuid-86",
+        "question": "The _____________ environmental project _____________ sustainable practices, _____________ carbon emissions and _____________ ecological impact.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Implemented", "Reducing", "Minimizing"],
+        "correctAnswer": ["Innovative", "Implemented", "Reducing", "Minimizing"]
+      },
+      {
+        "questionId": "uuid-87",
+        "question": "The _____________ technology solution _____________ system integration, _____________ operational efficiency and _____________ business performance.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Facilitated", "Improving", "Optimizing"],
+        "correctAnswer": ["Advanced", "Facilitated", "Improving", "Optimizing"]
+      },
+      {
+        "questionId": "uuid-88",
+        "question": "The _____________ healthcare platform _____________ medical services, _____________ patient experience and _____________ treatment outcomes.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Streamlined", "Enhancing", "Improving"],
+        "correctAnswer": ["Innovative", "Streamlined", "Enhancing", "Improving"]
+      },
+      {
+        "questionId": "uuid-89",
+        "question": "The _____________ research initiative _____________ scientific exploration, _____________ knowledge boundaries and _____________ technological advancement.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Groundbreaking", "Enabled", "Expanding", "Driving"],
+        "correctAnswer": ["Groundbreaking", "Enabled", "Expanding", "Driving"]
+      },
+      {
+        "questionId": "uuid-90",
+        "question": "The _____________ urban planning _____________ city development, _____________ sustainability goals and _____________ community needs.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Guided", "Advancing", "Addressing"],
+        "correctAnswer": ["Strategic", "Guided", "Advancing", "Addressing"]
+      },
+      {
+        "questionId": "uuid-91",
+        "question": "The _____________ digital transformation _____________ business processes, _____________ customer experience and _____________ market position.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Revolutionized", "Enhancing", "Strengthening"],
+        "correctAnswer": ["Comprehensive", "Revolutionized", "Enhancing", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-92",
+        "question": "The _____________ environmental program _____________ sustainable practices, _____________ resource efficiency and _____________ ecological balance.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Promoted", "Maximizing", "Maintaining"],
+        "correctAnswer": ["Innovative", "Promoted", "Maximizing", "Maintaining"]
+      },
+      {
+        "questionId": "uuid-93",
+        "question": "The _____________ technology initiative _____________ digital innovation, _____________ business capabilities and _____________ market competitiveness.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Strategic", "Accelerated", "Enhancing", "Strengthening"],
+        "correctAnswer": ["Strategic", "Accelerated", "Enhancing", "Strengthening"]
+      },
+      {
+        "questionId": "uuid-94",
+        "question": "The _____________ healthcare system _____________ medical care, _____________ patient outcomes and _____________ treatment efficiency.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Advanced", "Optimized", "Improving", "Maximizing"],
+        "correctAnswer": ["Advanced", "Optimized", "Improving", "Maximizing"]
+      },
+      {
+        "questionId": "uuid-95",
+        "question": "The _____________ research methodology _____________ data analysis, _____________ scientific understanding and _____________ knowledge discovery.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Innovative", "Enhanced", "Advancing", "Facilitating"],
+        "correctAnswer": ["Innovative", "Enhanced", "Advancing", "Facilitating"]
+      },
+      {
+        "questionId": "uuid-96",
+        "question": "The _____________ urban initiative _____________ city planning, _____________ sustainability goals and _____________ community development.",
+        "questionType": "text",
+        "answerType": "options",
+        "options": ["Comprehensive", "Transformed", "Achieving", "Promoting"],
+        "correctAnswer": ["Comprehensive", "Transformed", "Achieving", "Promoting"]
+      }
+    ]
+  },
+  "message": "Questions fetched successfully"
+} 
