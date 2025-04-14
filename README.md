@@ -6,7 +6,7 @@
 **Author:** Uday Kumar Gurrapu
 
 ---
-
+**LIVE LINK** : https://quiz-app-chi-beryl.vercel.app/
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Technical Stack](#technical-stack)
